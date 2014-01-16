@@ -121,7 +121,9 @@ BEGIN
 		B <= '1';
 		C <= '1';
 		wait for 100 ns;	
-		
+		-- Truth table is done
+		--chinghao
+		--test
       wait;
    end process;
 
